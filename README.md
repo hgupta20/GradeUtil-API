@@ -1,3 +1,3 @@
 ### Grade Utility
 
-The program is a grade utility with different function and test cases.
+The program is a Grade Analysis utility with different function and test cases.
